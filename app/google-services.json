@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796762278357",
+    "firebase_url": "https://ex87hog2069firebasechatting-default-rtdb.firebaseio.com",
+    "project_id": "ex87hog2069firebasechatting",
+    "storage_bucket": "ex87hog2069firebasechatting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796762278357:android:ec4578792e200a8960d55c",
+        "android_client_info": {
+          "package_name": "com.hog2020.ex87firebasechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796762278357-3pnefqntuj64par5vbkihsmmn8abimdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVOYK9yxel445jMS8939R7Iz2Aip-OVYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796762278357-3pnefqntuj64par5vbkihsmmn8abimdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
